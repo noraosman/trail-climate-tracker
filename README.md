@@ -17,7 +17,7 @@ I'm passionate about both outdoor recreation and sustainable technology. This pr
 - **Tools**: Git, pytest
 
 ## Current Status
-🚧 **Phase 1: Setup & Foundation** (Week 1-2)
+ **Phase 1: Setup & Foundation** (Week 1-2)
 - [x] Project repository created
 - [ ] API keys obtained
 - [ ] Base project structure established
